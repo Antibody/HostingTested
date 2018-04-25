@@ -1,4 +1,4 @@
-HostingTested
+Hosting
 =============
 
-Web Hosting Reviews
+Web Hosting test
